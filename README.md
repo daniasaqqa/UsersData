@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/49654167/117553321-8b440200-b059-11eb-8d30-f6bc0e31cdf6.gif" height= "450" width ="250"/>
 <br>
 ## ⚡📱 Screenshot for Logcat 
-<img src="https://user-images.githubusercontent.com/49654167/117553448-6308d300-b05a-11eb-8187-86922c4a029c.png" height= "300" width ="500"/>
+<img src="https://user-images.githubusercontent.com/49654167/117553448-6308d300-b05a-11eb-8187-86922c4a029c.png" height= "300" width ="700"/>
 <br>
 ## ⚡📱 Screenshot for Notification to one user
 ### 1
