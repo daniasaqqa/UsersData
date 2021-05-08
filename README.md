@@ -13,11 +13,11 @@
 <img src="https://user-images.githubusercontent.com/49654167/117553448-6308d300-b05a-11eb-8187-86922c4a029c.png" height= "300" width ="1800"/>
 
 ### ⚡📱 Screenshot for Notification to one user
-<div height= "500" width ="1900" style = "display:block">
-<img src="https://user-images.githubusercontent.com/49654167/117553573-0659e800-b05b-11eb-8b64-b2cddfe73b06.jpg" height= "450" width ="250" align = "left" />
 
-<img src="https://user-images.githubusercontent.com/49654167/117553593-28ec0100-b05b-11eb-8f09-e6288fd02ef4.png" height= "450" width ="250"  align = "right"/>
-</div>
+<img src="https://user-images.githubusercontent.com/49654167/117553573-0659e800-b05b-11eb-8b64-b2cddfe73b06.jpg" height= "450" width ="250"  />
+
+<img src="https://user-images.githubusercontent.com/49654167/117553593-28ec0100-b05b-11eb-8f09-e6288fd02ef4.png" height= "450" width ="250"  />
+
 
 ### ⚡📱 Screenshot for Notification to all
 
