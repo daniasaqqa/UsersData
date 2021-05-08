@@ -8,10 +8,10 @@
 
 ### ⚡📱 Video for app 
 <img src="https://user-images.githubusercontent.com/49654167/117553321-8b440200-b059-11eb-8d30-f6bc0e31cdf6.gif" height= "450" width ="250"/>
-<br>
-### ⚡📱 Screenshot for Logcat 
+
+<h2> ⚡📱 Screenshot for Logcat </h2>
 <img src="https://user-images.githubusercontent.com/49654167/117553448-6308d300-b05a-11eb-8187-86922c4a029c.png" height= "300" width ="1500"/>
-<br>
+
 ### ⚡📱 Screenshot for Notification to one user
 
 <img src="https://user-images.githubusercontent.com/49654167/117553573-0659e800-b05b-11eb-8b64-b2cddfe73b06.jpg" height= "450" width ="250"  />
