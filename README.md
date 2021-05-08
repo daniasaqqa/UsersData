@@ -14,10 +14,10 @@
 
 ### ⚡📱 Screenshot for Notification to one user
 
-<img src="https://user-images.githubusercontent.com/49654167/117553573-0659e800-b05b-11eb-8b64-b2cddfe73b06.jpg" height= "450" width ="250"  />
+<code><img src="https://user-images.githubusercontent.com/49654167/117553573-0659e800-b05b-11eb-8b64-b2cddfe73b06.jpg" height= "450" width ="250"  /></code>
 
-<img src="https://user-images.githubusercontent.com/49654167/117553593-28ec0100-b05b-11eb-8f09-e6288fd02ef4.png" height= "450" width ="250"  />
-
+<code><img src="https://user-images.githubusercontent.com/49654167/117553593-28ec0100-b05b-11eb-8f09-e6288fd02ef4.png" height= "450" width ="250"  /></code>
+<br />
 
 ### ⚡📱 Screenshot for Notification to all
 
